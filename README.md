@@ -1,6 +1,6 @@
 # Modelo EER de E-commerce
 
-Este projeto contém o **Modelo Entidade-Relacionamento (EER)** de um sistema de e-commerce. O modelo foi desenvolvido para representar as principais entidades e seus relacionamentos no contexto de uma loja virtual, incluindo clientes, fornecedores, produtos, pedidos, pagamentos e muito mais.
+Este projeto contém o **Modelo Entidade-Relacionamento (EER)** de um sistema de e-commerce utilizando MYSQL Workbench. O modelo foi desenvolvido para representar as principais entidades e seus relacionamentos no contexto de uma loja virtual, incluindo clientes, fornecedores, produtos, pedidos, pagamentos e muito mais.
 
 ## Descrição
 
