@@ -82,4 +82,4 @@ Essa notação facilita a compreensão dos relacionamentos no banco de dados, pe
 Para obter uma cópia local do projeto, clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/ecommerce-database.git
+git clone https://github.com/jvskora/Modelo-Conceitual-Ecommerce-MYSQLWorkbench.git
